@@ -1,0 +1,5 @@
+{
+    "hello" : "Xin chào",
+    "emailEmpty" : "Chưa nhập email",
+    "emailInvalid" : "Email không hợp lệ"
+}
